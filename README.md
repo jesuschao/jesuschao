@@ -10,6 +10,7 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/jes%C3%BAs-chao-fe
 
 
 
+
 Here some of my bootcamp projects that have helped adquire new skills in data analytics.
 
   1. [Coursera Project](https://github.com/jesuschao/Coursera_Project).
