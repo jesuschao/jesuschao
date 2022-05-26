@@ -11,9 +11,7 @@ I reckon the data is playing an ever more critical role in decision making. It i
 
 I am a non-conformist with great capacity for learning and with innovative character as well. 
 
-You can contact me via Linkedin or email chaojesus@hotmail.com
-
-You can find more information about my profile in [Linkedin](https://www.linkedin.com/in/jes%C3%BAs-chao-fern%C3%A1ndez-bb84265b/).
+You can contact me via Linkedin or email chaojesus@hotmail.com Feel free to find more information about my profile in [Linkedin](https://www.linkedin.com/in/jes%C3%BAs-chao-fern%C3%A1ndez-bb84265b/).
 
 
 You can find here some bootcamp projects that have helped adquire new skills in data analytics.
