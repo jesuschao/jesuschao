@@ -13,29 +13,26 @@ I am a non-conformist with great capacity for learning and with innovative chara
 
 You can contact me via Linkedin or email chaojesus@hotmail.com
 
-[Linkedin](https://www.linkedin.com/in/jes%C3%BAs-chao-fern%C3%A1ndez-bb84265b/).
+You can find more information about my profile in [Linkedin](https://www.linkedin.com/in/jes%C3%BAs-chao-fern%C3%A1ndez-bb84265b/).
 
-[Github](https://github.com/jesuschao).
 
 You can find here some bootcamp projects that have helped adquire new skills in data analytics.
 
-        [Coursera Project](https://github.com/jesuschao/Coursera_Project).
+  1.[Coursera Project](https://github.com/jesuschao/Coursera_Project).
 
-        [ETL MOMA Artists](https://github.com/jesuschao/ETL-MOMA-Artists).
+  2.[ETL MOMA Artists](https://github.com/jesuschao/ETL-MOMA-Artists).
 
-        [Airbnb Competition](https://github.com/jesuschao/Airbnb-Competition).
+  3.[Airbnb Competition](https://github.com/jesuschao/Airbnb-Competition).
 
-        [Cleaning Pandas](https://github.com/jesuschao/data-cleaning-pandas).
+  4.[Cleaning Pandas](https://github.com/jesuschao/data-cleaning-pandas).
 
-        [Reto data](https://github.com/jesuschao/reto_data).
-
-
-This small project has allowed developed skills in Power BI.
-
-[Power BI Project](https://github.com/jesuschao/Power-BI-Project).
+  5.[Reto data](https://github.com/jesuschao/reto_data).
 
 
-### Extra work.
+This small project has allowed developed skills in Power BI; [Power BI Project](https://github.com/jesuschao/Power-BI-Project).
+
+
+#### Extra work.
 
 I would like to bring up another project that is very different from previous mentioned. It is my TFM of my MBA which was startup called My-Tattoo. 
 
