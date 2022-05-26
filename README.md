@@ -8,6 +8,8 @@ Hi there 👋. I am a well rounded proffesional with good balance in technical s
 You can contact me via [Linkedin](https://www.linkedin.com/in/jes%C3%BAs-chao-fern%C3%A1ndez-bb84265b/) or email chaojesus@hotmail.com 
 
 
+
+
 Here some of my bootcamp projects that have helped adquire new skills in data analytics.
 
   1. [Coursera Project](https://github.com/jesuschao/Coursera_Project).
