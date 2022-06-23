@@ -34,6 +34,10 @@ I would like to bring up another project which is very different from previous m
 
 <img src= "tattoo.jpg" width="200" height="350">
 
+### Interests.
+
+I combine interests in new technologies and innovation processes with other artistic areas such as photography, music, painting or theater.
+
 <!--
 **jesuschao/jesuschao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
