@@ -32,7 +32,7 @@ This small project has allowed developed skills in Power BI; [Power BI Project](
 
 I would like to bring up another project which is very different from previous mentioned. This work was done in collaboration and its purpose is building up a startup project from zero. A B2B platform that connects users and tattoo artists and create a community. Revenue of this company comes from several services offered to the artists.
 
-<img src= "tattoo.jpg" width="200" height="350">
+<img src= "espalda.jpg" width="450" height="250">
 
 ### Interests.
 
