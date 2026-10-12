@@ -13,15 +13,17 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/jes%C3%BAs-chao-fe
 
 Here some of my bootcamp projects that have helped adquire new skills in data analytics.
 
-  1. [Coursera Project](https://github.com/jesuschao/Coursera_Project).
+  1.[Territory-Alignment-Analysis](https://github.com/jesuschao/Territory-Alignment-Analysis----Ashfield_Engage).
+  
+  2. [Coursera Project](https://github.com/jesuschao/Coursera_Project).
 
-  2. [ETL MOMA Artists](https://github.com/jesuschao/ETL-MOMA-Artists).
+  3. [ETL MOMA Artists](https://github.com/jesuschao/ETL-MOMA-Artists).
 
-  3. [Airbnb Competition](https://github.com/jesuschao/Airbnb-Competition).
+  4. [Airbnb Competition](https://github.com/jesuschao/Airbnb-Competition).
 
-  4. [Cleaning Pandas](https://github.com/jesuschao/data-cleaning-pandas).
+  5. [Cleaning Pandas](https://github.com/jesuschao/data-cleaning-pandas).
 
-  5. [Reto data](https://github.com/jesuschao/reto_data).
+  6. [Reto data](https://github.com/jesuschao/reto_data).
 
 
 This small project has allowed developed skills in Power BI; [Power BI Project](https://github.com/jesuschao/Power-BI-Project).
